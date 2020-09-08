@@ -1,0 +1,12 @@
+name: ExplodingBiplots
+title: ExplodingBiplots
+username:
+account: carelvdmerwe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2547855
+bundleId: 3366123
+url: https://carelvdmerwe.shinyapps.io/ExplodingBiplots/
+when: 1594195555.15582
+asMultiple: FALSE
+asStatic: FALSE
